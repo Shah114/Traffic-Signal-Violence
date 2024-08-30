@@ -24,4 +24,18 @@ These dependencies are listed in the requirements.txt file. <br/>
    ```bash
    pip install -r requirements.txt
    ```
+<br/>
+
+## Usage
+To use this project, follow the steps below: <br/>
+1. Place your input video file in the project directory.
+2. Run the detection script:
+   ```bash
+   python main.py
+   ```
+Replace main.py with the actual script name if different.
+3. The output will be a video with detected violations highlighted. <br/>
+<br/>
+
+##
 
