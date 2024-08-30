@@ -45,4 +45,6 @@ An example video (example.mp4) is provided in this repository to test the model.
 The model successfully identifies vehicles running red lights in the provided video. Detected violations are highlighted in the output video, which can be used for further analysis or enforcement actions. <br/>
 <br/>
 
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
