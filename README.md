@@ -5,3 +5,13 @@ This repository contains a project for detecting traffic signal violations using
 ## Introduction
 Traffic signal violations, such as running a red light, are a significant cause of road accidents. This project aims to detect such violations using a pre-trained YOLOv8m model. The model processes video footage to identify vehicles that do not adhere to traffic signals, providing a practical tool for improving road safety. <br/>
 <br/>
+
+## Requirements
+To run this project, you will need the following Python packages:
+* opencv-python
+* ultralytics
+* numpy <br/>
+These dependencies are listed in the requirements.txt file. <br/>
+<br/>
+
+## 
