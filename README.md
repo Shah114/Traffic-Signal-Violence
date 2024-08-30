@@ -37,5 +37,9 @@ To use this project, follow the steps below: <br/>
 3. The output will be a video with detected violations highlighted. <br/>
 <br/>
 
-##
+## Example
+An example video (example.mp4) is provided in this repository to test the model. Run the detection script with this video to see how the model performs. <br/>
+<br/>
+
+##Results
 
