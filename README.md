@@ -33,7 +33,7 @@ To use this project, follow the steps below: <br/>
    ```bash
    python main.py
    ```
-Replace main.py with the actual script name if different.
+   Replace main.py with the actual script name if different. <br/>
 3. The output will be a video with detected violations highlighted. <br/>
 <br/>
 
