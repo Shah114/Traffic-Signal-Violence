@@ -41,5 +41,8 @@ To use this project, follow the steps below: <br/>
 An example video (example.mp4) is provided in this repository to test the model. Run the detection script with this video to see how the model performs. <br/>
 <br/>
 
-##Results
+## Results
+The model successfully identifies vehicles running red lights in the provided video. Detected violations are highlighted in the output video, which can be used for further analysis or enforcement actions. <br/>
+<br/>
+
 
