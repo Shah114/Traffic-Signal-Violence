@@ -46,5 +46,4 @@ The model successfully identifies vehicles running red lights in the provided vi
 <br/>
 
 ## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
+Contributions are welcome! Feel free to open an issue or submit a pull request. <br/>
